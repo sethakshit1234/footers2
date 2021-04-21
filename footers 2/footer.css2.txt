@@ -1,0 +1,168 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Jost', sans-serif;
+}
+ 
+
+
+
+
+
+footer{
+  background-color: black;
+  color: white;
+  padding: 4rem, 16vw;
+ width: 100%;
+  height:100%;
+  
+
+}
+ .storelocator{
+ display: flex;
+ align-items: center;
+ padding-left: 20px;
+
+ 
+ 
+}
+.storelocator h2{
+  padding: 10px;
+  display: flex;
+  /* flex-direction: column; */
+
+
+
+}
+
+.storelocator button{
+  height: 40px;
+  width: 4rem;
+  color: white;
+  background-color: red;
+  border: none;
+  
+
+ 
+  
+}
+
+
+
+
+
+.newsletter{
+  display:flex;
+ align-items: center;
+ justify-items: center; 
+padding-left: 10%;
+
+ 
+}
+.newsletter h2{
+ 
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+}
+.newsletter span:nth-child(2){
+  font-size: 12px;
+  font-weight: 300;
+}
+ .newsletter form{
+  margin: 20px 0;
+} 
+
+.newsletter form input{
+height: 40px;
+width: 10vw;
+ padding: 0 15px; 
+outline: none;
+}
+
+.newsletter form button{
+  height: 40px;
+  width: 4rem;
+  color: white;
+  background-color: red;
+  border: none;
+ 
+  
+}
+
+.social-icons{
+  position: relative;
+ padding-left: 100px;
+ display: flex;
+
+}
+
+.social-icons li{
+  list-style: none;
+  margin: 10px ;
+
+
+}
+
+.social-icons li a{
+  text-decoration: none;
+ 
+  color: white;
+  font-size: 30px;
+
+
+}
+
+.social-icons li a:hover{
+  color: aqua;
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+ padding: 10px 30px;
+ align-items: center;
+ 
+}
+
+.links{
+  margin: 0px 30px;
+}
+
+.links h6{
+  font-size: 10px;
+}
+
+.links ul{
+  margin: 10px ;
+}
+
+.links li{
+  list-style: none;
+  margin: 10px 0;
+ 
+}
+
+.links li a{
+  font-size: 13px;
+  text-decoration: none;
+  color: gray;
+  text-transform: uppercase;
+  transition: 0.3s ease;
+
+}
+
+.links li a:hover{
+  color: aqua;
+}
+
+
+.copyrights{
+  width: 100%;
+  padding: 8px 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
