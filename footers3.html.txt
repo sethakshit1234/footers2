@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+ <link href="https://fonts.googleapis.com/css?family=Maven+Pro&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+    <link href="./extra.css" rel="stylesheet"/>
+    <title>Document</title>
+</head>
+<body>
+   <header>
+      
+   </header>
+   <footer class="footer_style">
+    <main class="container-fluid">
+    <div class="row p-4">
+     <div class="col-md-3 col-12" >
+        <h4>shop</h4>
+        <ul>
+            <li>
+                <a href="#">shophome</a>
+            </li>
+            <li>
+                <a href="#">mens</a>
+            </li>
+            <li>
+                <a href="#">women</a>
+            </li>
+            <li>
+                <a href="#">kids</a>
+            </li>
+            <li>
+                <a href="#">classic</a>
+            </li>
+        </ul>
+
+     </div>   
+     <div class="col-md-3 col-12">
+        <h4>sports</h4>
+        <ul>
+            <li>
+                <a href="#">skate</a>
+            </li>
+            <li>
+                <a href="#">skat3</a>
+            </li>
+            <li>
+                <a href="#">cricket</a>
+            </li>
+            <li>
+                <a href="#">world</a>
+            </li>
+            <li>
+                <a href="#">snow</a>
+            </li>
+        </ul>
+     </div>
+     <div class="col-md-3 col-12">
+        <h4>sports</h4>
+        <ul>
+            <li>
+                <a href="#">bats</a>
+            </li>
+            <li>
+                <a href="#">skat</a>
+            </li>
+            <li>
+                <a href="#">near</a>
+            </li>
+            <li>
+                <a href="#">snow</a>
+            </li>
+            <li>
+                <a href="#">snow</a>
+            </li>
+        </ul>
+     </div>
+     <div class="col-md-3 col-12">
+        <h4>sports</h4>
+        <ul>
+            <li>
+                <a href="#">bats</a>
+            </li>
+            <li>
+                <a href="#">skat</a>
+            </li>
+            <li>
+                <a href="#">near</a>
+            </li>
+            <li>
+                <a href="#">snow</a>
+            </li>
+            <li>
+                <a href="#">snow</a>
+            </li>
+        </ul>
+     </div>
+     
+    </div>
+    <div class="d-flex flex-row justify-content-around align-items-center flex-wrap">
+        <div class="p-md-5 p-2 flex-fill ">
+            <h2>
+                <span> NEAR STORE</span>
+            </h2>
+           
+        <button type="button">FIND A STORE</button>
+        </div>
+     
+      
+            <div class="p-md-5 p-2 flex-fill ">
+                <h2>
+                    <span>SUBSCRIBE</span>
+                </h2>
+                <form action="?">
+                    <input type="email" ></input>
+             </form>
+
+        </div>
+  
+       
+       <div class="p-md-5 p-2 flex-fill ">
+        <ul class="social-icons ">
+     
+
+            <li>
+                <a href="#">
+                    <i class="fab fa-facebook"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+        </ul>
+</div>
+</div>
+
+        
+    </main>
+   </footer>
+</body>
+</html>
